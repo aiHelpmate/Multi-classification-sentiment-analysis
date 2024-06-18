@@ -1,6 +1,6 @@
 # Multi-classification-sentiment-analysis
 
-Collect news reports on China's poverty alleviation policies from the Internet and conduct sentiment analysis
+The project collects online news reports on China's poverty alleviation policies and conducts sentiment analysis. This will give a significant boost to your crawling skills and nlp abilities.
 
 ### data crawling
 Crawl the data by searching foreign media that have news reports on China's poverty alleviation policies -- the data and code are saved in the "News" folder
