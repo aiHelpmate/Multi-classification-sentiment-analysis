@@ -15,7 +15,7 @@ Crawl the data by searching foreign media that have news reports on China's pove
 
 ## LSTM model construction
 
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/aiHelpmate/Multi-classification-sentiment-analysis/blob/main/Images/3a027f1c11186cf975c45fc4e920e64.png))
+<img src = "https://github.com/aiHelpmate/Multi-classification-sentiment-analysis/blob/main/Images/3a027f1c11186cf975c45fc4e920e64.png" width="500">
 
 ## Results:  
 #### Pytorch_LSTM:  
