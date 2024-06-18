@@ -14,4 +14,11 @@ Crawl the data by searching foreign media that have news reports on China's pove
 * Spellchecker for spelling correction
 
 ### LSTM model construction
-Use pytorch tool and get 93% accuracy
+
+
+### Results:  
+- Pytorch_LSTM:  
+
+| Test loss | Test accuracy | 
+|--------------|-----------|
+|          0.175 |      0.937 |
