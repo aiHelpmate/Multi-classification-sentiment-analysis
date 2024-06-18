@@ -2,6 +2,8 @@
 
 The project collects online news reports on China's poverty alleviation policies and conducts sentiment analysis. This will give a significant boost to your crawling skills and nlp abilities.
 
+If you want to try a PyTorch-based deep learning project, this is the best choice！
+
 ## Data crawling
 Crawl the data by searching foreign media that have news reports on China's poverty alleviation policies -- the data and code are saved in the "News" folder
 
